@@ -18,7 +18,7 @@ I enjoy the challenge of creating complex applications and experiences that are 
 
 - Currently expanding my skills in Javascript and React, and dabbling in back-end (Node.js, Express Mongo, Postgres), React Native and Python
 
-- My resume can be found here  [here](https://genao.io/resume/final_resume.pdf)
+- My resume can be found [here](https://genao.io/resume/final_resume.pdf)
 
 ---------------------------------------------------------------------
 
@@ -37,7 +37,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
