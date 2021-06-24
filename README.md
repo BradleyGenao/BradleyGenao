@@ -12,11 +12,15 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 ## A Front-End Web Developer passionate about creating interactive applications and experiences on the web.
 
-I enjoy the challenge of creating complex applications and experiences that are interactive, informative and accessible, and I am always learning and improving my skills on the latest web technologies.
+I enjoy the challenge of creating complex applications and experiences that are interactive, informative and accessible, and I am always learning and improving my skills on the latest web technologies. 
 
-- Check out my website [here](http://genao.io)
+- Currently expanding my skills in Javascript and React, and dabbling in back-end (Node.js, Express Mongo, Postgres), React Native and Python.
+  
+- Served 9 and 1/2 years in the Coast Guard as an Operation Specialist.
 
-- Currently expanding my skills in Javascript and React, and dabbling in back-end (Node.js, Express Mongo, Postgres), React Native and Python
+- Graduated with a Bachelor's in Computer Science from the University of San Francisco in the Fall of 2020
+
+- Check out my website [here](http://genao.io)!
 
 - My resume can be found [here](https://genao.io/resume/final_resume.pdf)
 
