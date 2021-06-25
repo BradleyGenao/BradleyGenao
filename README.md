@@ -22,7 +22,7 @@ I enjoy the challenge of creating complex applications and experiences that are 
 
 - Check out my website [here](http://genao.io)!
 
-- My resume can be found [here](https://genao.io/resume/final_resume.pdf)
+- My resume can be found [here](https://genao.io/resume/final_resume.pdf)!
 
 ---------------------------------------------------------------------
 
