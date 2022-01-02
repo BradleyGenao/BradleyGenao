@@ -16,7 +16,7 @@ I enjoy the challenge of creating complex applications and experiences that are 
 
 - Currently expanding my skills in Javascript and React, and dabbling in back-end (Node.js, Express Mongo, Postgres), React Native and Python.
   
-- Served 9 and 1/2 years in the Coast Guard as an Operation Specialist.
+- Served 8 and 1/2 years in the Coast Guard as an Operation Specialist.
 
 - Graduated with a Bachelor's in Computer Science from the University of San Francisco in the Fall of 2020
 
